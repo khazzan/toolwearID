@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>image60a.JPG</filename>
+	<path>/my-project-name/image60a.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>flank_wear</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>354</ymin>
+			<xmax>502</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>
