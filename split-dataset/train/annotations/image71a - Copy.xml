@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>image71a - Copy.JPG</filename>
+	<path>/my-project-name/image71a - Copy.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>flank_wear</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>176</ymin>
+			<xmax>303</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
